@@ -1,4 +1,4 @@
-FreeCAD-OpenEMS-Export
+FreeCAD-OpenEMS-Export - FreeCadV1.0.0
 ======================
 Simple GUI plugin for FreeCAD to export current model for EM simulation in OpenEMS
 
@@ -28,3 +28,7 @@ To make long story short below is picture already defined simulation in plugin G
 The main purpose of this GUI is to made easy setup simulation and help to define mesh for it. Right meshing is crucial when using FDTD simulation, it has affect on results. There are some help function like displaying defined mesh lines in FreeCAD model, setting priorities for mesh gridlines and make mesh grid setting understandable for normal people.
 
 ![GUI example 1](./documentation_img/GUI_example_1.png)
+
+----
+I applied change bellow.
+https://github.com/LubomirJagos42/FreeCAD-OpenEMS-Export/discussions/10#discussioncomment-11573013
